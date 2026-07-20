@@ -6,3 +6,5 @@ As my final project, I created an Interactive Bike Sales Dashboard that provides
 💰 Income distribution 
 📍 Commute distance analysis 
 🎛️ Interactive slicers for dynamic filtering
+
+<img src="Screenshot (85).png" />
